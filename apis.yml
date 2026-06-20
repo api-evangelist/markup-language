@@ -6,7 +6,7 @@ description: >-
   Markdown, LaTeX, and others that add semantic meaning or formatting
   instructions to text content.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/markup-language/refs/heads/main/apis.yml
 tags:
